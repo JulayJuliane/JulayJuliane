@@ -32,14 +32,12 @@
     e a <strong>Cubos Academy</strong> para estudar <strong>Desenvolvimento de Software com foco em back-end</strong>. Estou sempre
     sedenta por mais conhecimento e aberta a aprender novas linguagens e tecnologias.
 </p>
-
+<!--
 <p>
     Todas essas experiências enriquecedoras me fizeram crescer e nutrir ainda mais minha paixão por esse universo tecnológico. A
     tecnologia é uma jornada emocionante, um campo vasto e cheio de oportunidades de aprendizado e crescimento. Estou comprometida
     em continuar explorando e contribuindo para esse mundo incrível!
 </p>
-
-<!--
 <h2>Habilidades 🌟</h2>
 <ul>
     <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React, Node.js, GIT, GITHUB, Design UX UI</li>
@@ -47,7 +45,6 @@
     <li><strong>Outras Linguagens</strong>: Python, Java</li>
     <li><strong>Experiência em Robótica com Arduíno 🤖</strong></li>
 </ul>
-
 <h2>Projetos Destacados 📚</h2>
 <ul>
     <li><a href="https://seuportfolio.com" target="_blank"><strong>Portfolio Pessoal</strong></a>: Meu espaço para exibir meus projetos e conquistas.</li>
