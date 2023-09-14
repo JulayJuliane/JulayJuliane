@@ -1,7 +1,10 @@
 <h1>👋 Olá, mundo! Sou Juliane, uma apaixonada desenvolvedora de software de Belém do Pará. 👩‍💻</h1>
+
 <h2>🎓Bacharela em Sistemas de Informação</ph2>
     
-<p>🏠 Residindo atualmente em Salvador, Bahia</p>
+<h4> 
+    🏠 Residindo atualmente em Salvador, Bahia 
+</h4>
 
 <h2>Minha Jornada Tecnológica 🚀</h2>
 <p>
