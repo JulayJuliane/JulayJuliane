@@ -1,4 +1,5 @@
-<h2>👩‍💻 Desenvolvedora de Software made in Belém do Pará</h2>
+<h1>👋 Olá, mundo! Sou Juliane, uma apaixonada desenvolvedora de software de Belém do Pará. 👩‍💻</h1>
+<h2>👩‍💻 Residindo atualmente em Salvador, Bahia</h2>
 <p>Bacharela em Sistemas de Informação</p>
 
 <h2>Minha Jornada Tecnológica 🚀</h2>
