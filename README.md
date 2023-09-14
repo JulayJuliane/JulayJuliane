@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="UTF-8">
-    <style>
-        /* Definindo estilos para o perfil no GitHub */
-        body {
-            font-family: Arial, sans-serif;
-        }
-
-        h1 {
-            font-size: 24px;
-        }
-
-        h2 {
-            font-size: 18px;
-        }
-
-        p {
-            font-size: 16px;
-        }
-
-        /* Estilo para os links */
-        a {
-            text-decoration: none;
-            color: #0366d6;
-        }
-    </style>
-</head>
-
-<body>
-    <h1>👋 Olá mundo! Eu sou Juliane</h1>
+ <h1>👋 Olá mundo! Eu sou Juliane</h1>
 
     <h2>👩‍💻 Desenvolvedora de Software de Belém do Pará</h2>
     <p>Bacharela em Sistemas de Informação</p>
@@ -101,7 +69,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julayjuliane&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=julayjuliane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-</body>
-
-</html>
