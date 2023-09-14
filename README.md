@@ -1,4 +1,4 @@
-<h2>👩‍💻 Desenvolvedora de Software de Belém do Pará</h2>
+<h2>👩‍💻 Desenvolvedora de Software made in Belém do Pará</h2>
 <p>Bacharela em Sistemas de Informação</p>
 
 <h2>Minha Jornada Tecnológica 🚀</h2>
