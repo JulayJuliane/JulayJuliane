@@ -52,7 +52,7 @@
 <h2>Vamos Conectar? 🤝</h2>
 <p>Estou sempre aberta a novas conexões e colaborações emocionantes! Sinta-se à vontade para me seguir aqui no GitHub e nas redes sociais. Vamos explorar juntos o mundo da tecnologia e construir algo incrível!</p>
 <a href="https://instagram.com/julayjuliane" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/julayjuliane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+   <a href="https://www.linkedin.com/in/julayjuliane/" rel="nofollow"><img src="https://camo.githubusercontent.com/d2321b99f2c2b7a7541d1404a1e38c67268df8890a13c53db7979a490d7bc95f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c756361732d62697474656e636f7572742f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/julayjuliane/" style="max-width: 100%;"></a>
     <a href="https://twitter.com/julayjuliane" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-lightblue" alt="Twitter"></a>
 
  <h2>Entre em Contato 📬</h2>
