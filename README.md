@@ -36,10 +36,10 @@
 
 <h2>Habilidades 🌟</h2>
 <ul>
-    <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React</li>
-    <li><strong>Back-end</strong>: Em constante aprimoramento!</li>
+    <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React, Node.js, GIT, GITHUB, Design UX UI</li>
+    <li><strong>Back-end</strong>: PHP, C#, SQL e em constante aprimoramento!</li>
     <li><strong>Outras Linguagens</strong>: Python, Java</li>
-    <li><strong>Experiência em Robótica e Veículos Autônomos</strong></li>
+    <li><strong>Experiência em Robótica com Arduíno 🤖</strong></li>
 </ul>
 
 <!--<h2>Projetos Destacados 📚</h2>
@@ -51,3 +51,19 @@
 -->
 <h2>Vamos Conectar? 🤝</h2>
 <p>Estou sempre aberta a novas conexões e colaborações emocionantes! Sinta-se à vontade para me seguir aqui no GitHub e nas redes sociais. Vamos explorar juntos o mundo da tecnologia e construir algo incrível!</p>
+<a href="https://instagram.com/julayjuliane" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/julayjuliane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+    <a href="https://twitter.com/julayjuliane" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-lightblue" alt="Twitter"></a>
+
+ <h2>Entre em Contato 📬</h2>
+    <p>Você pode me contatar através do meu e-mail: </p>
+<a href = "mailto:contato@julianerobertass5"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<p>Vamos criar o futuro juntos! 🚀</p>
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julayjuliane&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=julayjuliane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
