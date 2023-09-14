@@ -34,6 +34,7 @@
     em continuar explorando e contribuindo para esse mundo incrível!
 </p>
 
+<!--
 <h2>Habilidades 🌟</h2>
 <ul>
     <li><strong>Front-end</strong>: HTML, CSS, JavaScript, React, Node.js, GIT, GITHUB, Design UX UI</li>
@@ -42,7 +43,7 @@
     <li><strong>Experiência em Robótica com Arduíno 🤖</strong></li>
 </ul>
 
-<!--<h2>Projetos Destacados 📚</h2>
+<h2>Projetos Destacados 📚</h2>
 <ul>
     <li><a href="https://seuportfolio.com" target="_blank"><strong>Portfolio Pessoal</strong></a>: Meu espaço para exibir meus projetos e conquistas.</li>
     <li><a href="https://meublogdetecnologia.com" target="_blank"><strong>Blog de Tecnologia</strong></a>: Compartilhando meus conhecimentos e experiências com a comunidade.</li>
