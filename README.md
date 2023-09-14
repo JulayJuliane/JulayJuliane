@@ -50,6 +50,7 @@
     <li><a href="https://meuappmobile.com" target="_blank"><strong>Aplicativo Mobile</strong></a>: Desenvolvimento de um aplicativo inovador que facilita a vida das pessoas.</li>
 </ul>
 -->
+
 <h2>Vamos Conectar? 🤝</h2>
 <p>Estou sempre aberta a novas conexões e colaborações emocionantes! Sinta-se à vontade para me seguir aqui no GitHub e nas redes sociais. Vamos explorar juntos o mundo da tecnologia e construir algo incrível!</p>
 <a href="https://instagram.com/julayjuliane" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
