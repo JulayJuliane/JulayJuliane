@@ -2,7 +2,7 @@
 <h3>👩‍💻 FullStack Software Developer | Especialista em Backend & Cloud | Entusiasta de IA 🚀</h3>
 
 <p>
-  Sou uma desenvolvedora paraense baseada em Salvador/BA, apaixonada por tecnologia, cultura e por criar soluções eficientes que geram impacto real. 
+  Sou uma desenvolvedora de Belém do Pará residindo atualmente em Salvador/Bahia, apaixonada por tecnologia, cultura e por criar soluções eficientes que geram impacto real. 
   Tenho experiência sólida no desenvolvimento e manutenção de sistemas em ambiente de produção, combinando boas práticas de engenharia de software, segurança e foco no usuário.
 </p>
 
