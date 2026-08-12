@@ -46,11 +46,9 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
-<div>
- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julayjuliane&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Languages" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=julayjuliane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julayjuliane&layout=compact&theme=dracula" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=julayjuliane&show_icons=true&theme=dracula" height="160" alt="GitHub Stats" />
 </div>
 
 <h2>Vamos Conectar? 🤝</h2>
